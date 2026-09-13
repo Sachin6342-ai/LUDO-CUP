@@ -1,0 +1,6 @@
+{
+  "name": "LUDO CUP",
+  "description": "Mobile-first original multiplayer and offline Ludo board game featuring online rooms, AI opponents, voice and text chat, tournaments, and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

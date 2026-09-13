@@ -1,0 +1,53 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Royal Crown on top -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M38,36 L43,44 L54,34 L65,44 L70,36 L68,48 L40,48 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M40,47 L68,47 L67,50 L41,50 Z" />
+    <path
+        android:fillColor="#FEF08A"
+        android:pathData="M38,36m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0 M54,34m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0 M70,36m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+
+    <!-- Rounded Ludo Die (Center) -->
+    <!-- Base Die Body with soft shadow -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M37,53 C37,49 40,46 44,46 L64,46 C68,46 71,49 71,53 L71,73 C71,77 68,80 64,80 L44,80 C40,80 37,77 37,73 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,53 C37,49 40,46 44,46 L64,46 C68,46 71,49 71,53 L71,71 C71,75 68,78 64,78 L44,78 C40,78 37,75 37,71 Z" />
+
+    <!-- Die 6-Dots (Red / Ruby game accents) -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M45,54m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0
+                          M45,62m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0
+                          M45,70m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0
+                          M63,54m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0
+                          M63,62m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0
+                          M63,70m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+
+    <!-- Small decorative token badges left and right -->
+    <!-- Blue Token on left -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M30,68 C30,64 34,64 34,68 L35,74 L29,74 Z" />
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M32,63m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+
+    <!-- Green Token on right -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M78,68 C78,64 74,64 74,68 L73,74 L79,74 Z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M76,63m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+</vector>
